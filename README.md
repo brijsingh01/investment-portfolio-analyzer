@@ -1,7 +1,6 @@
 # Investment Portfolio Analyzer
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor
-[![CrewAI](https://img.shields.io/badge/CrewAI-2C3E50?style=for-the-badge&logo=crewai&logoColorA multi-agent AI-powered Streamlit app for analyzing investment portfolios using Indian stocks (BSE/NSE). Leveraging CrewAI agents for data fetching, news sentiment analysis, quantitative metrics, and ethical compliance checks, this tool generates optimized portfolio allocations based on your goals and risk tolerance. Built with guardrails for security and regulatory adherence, it's designed for educational and exploratory purposes.
+A multi-agent AI-powered Streamlit app for analyzing investment portfolios using Indian stocks (BSE/NSE). Leveraging CrewAI agents for data fetching, news sentiment analysis, quantitative metrics, and ethical compliance checks, this tool generates optimized portfolio allocations based on your goals and risk tolerance. Built with guardrails for security and regulatory adherence, it's designed for educational and exploratory purposes.
 
 > **⚠️ Disclaimer:** This app is for informational and learning purposes only. It does not constitute financial, investment, or legal advice. All outputs are based on historical data and AI-generated insights, which may not predict future performance. Investments involve risks, including loss of principal. Always consult a qualified financial advisor before making decisions.
 
