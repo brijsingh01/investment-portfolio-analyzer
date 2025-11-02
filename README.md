@@ -15,6 +15,17 @@ A multi-agent AI-powered Streamlit app for analyzing investment portfolios using
 - **User-Friendly Interface**: Streamlit-based UI with graceful error handling—always provides guidance, never raw exceptions.
 - **Extensible**: Easy to add more agents/tools for advanced features like risk simulations.
 
+## Screenshots
+
+### Streamlit App Interface
+![Streamlit App Interface](images/app.png)
+*Screenshot of the main input interface for entering investment details.*
+
+### Portfolio Analysis Result
+![Portfolio Result Screenshot](images/result.png)
+*Example output showing optimized allocations, metrics, and rationales.*
+
+
 ## Prerequisites
 
 - **Python 3.9+**: Ensure Python is installed (check with `python --version`).
