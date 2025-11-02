@@ -1,0 +1,12 @@
+crewai
+crewai_tools
+langchain_community
+yfinance
+numpy<2
+pandas
+pydantic
+tavily-python
+nemoguardrails
+langchain-google-genai
+google-generativeai
+streamlit
